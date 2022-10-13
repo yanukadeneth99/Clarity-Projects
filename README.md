@@ -4,3 +4,4 @@
 - Counter - Counter that increments and Decrements written in Clarity. 
 - Time Locked Wallet - Time locked wallet that locks an amount for a block-height duration.
 - Multi Sig Vault - Multi Signatured Vault run by a DAO Voting system written in Clarity.
+- NFT Tokens - A NFT Project written in Clarity.
