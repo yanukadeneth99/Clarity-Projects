@@ -1,9 +1,9 @@
-[submodule "Counter"]
-	path = Counter
-	url = https://github.com/yanukadeneth99/Counter
 [submodule "Time-Locked-Wallet"]
 	path = Time-Locked-Wallet
 	url = https://github.com/yanukadeneth99/Time-Locked-Wallet
 [submodule "Multi-Sig-Vault"]
 	path = Multi-Sig-Vault
 	url = https://github.com/yanukadeneth99/Multi-Sig-Vault
+[submodule "Counter"]
+	path = Counter
+	url = https://github.com/yanukadeneth99/Counter
