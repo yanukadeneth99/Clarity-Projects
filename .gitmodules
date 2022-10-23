@@ -13,3 +13,6 @@
 [submodule "NFT-Tokens"]
 	path = NFT-Tokens
 	url = https://github.com/yanukadeneth99/NFT-Tokens
+[submodule "Deeds"]
+	path = Deeds
+	url = https://github.com/yanukadeneth99/Deeds
